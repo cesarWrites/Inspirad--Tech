@@ -95,8 +95,15 @@ export default function ArticlePage({ params }) {
 
         {/* Ad Placeholder - Top */}
         <div className="mb-8 p-8 bg-slate-800/30 border-2 border-dashed border-slate-700 rounded-lg text-center">
-          <p className="text-gray-400">Advertisement Space - Top Banner</p>
-          <p className="text-sm text-gray-500 mt-2">Google AdSense code goes here</p>
+          <p className="text-gray-400"><ins
+  className="adsbygoogle"
+  style={{ display: 'block' }}
+  data-ad-client="ca-pub-4833804033566999"
+  data-ad-slot="1234567890"
+  data-ad-format="auto"
+  data-full-width-responsive="true"
+/></p>
+          {/* <p className="text-sm text-gray-500 mt-2">Google AdSense code goes here</p> */}
         </div>
 
         {/* Article Body */}
@@ -107,8 +114,15 @@ export default function ArticlePage({ params }) {
 
         {/* Ad Placeholder - Middle */}
         <div className="my-12 p-8 bg-slate-800/30 border-2 border-dashed border-slate-700 rounded-lg text-center">
-          <p className="text-gray-400">Advertisement Space - In-Article</p>
-          <p className="text-sm text-gray-500 mt-2">Google AdSense code goes here</p>
+          <p className="text-gray-400"> <ins
+  className="adsbygoogle"
+  style={{ display: 'block' }}
+  data-ad-client="ca-pub-4833804033566999"
+  data-ad-slot="1234567890"
+  data-ad-format="auto"
+  data-full-width-responsive="true"
+/></p>
+          {/* <p className="text-sm text-gray-500 mt-2">Google AdSense code goes here</p> */}
         </div>
 
         {/* Tags */}
@@ -128,8 +142,15 @@ export default function ArticlePage({ params }) {
 
         {/* Ad Placeholder - Bottom */}
         <div className="mt-12 p-8 bg-slate-800/30 border-2 border-dashed border-slate-700 rounded-lg text-center">
-          <p className="text-gray-400">Advertisement Space - Bottom Banner</p>
-          <p className="text-sm text-gray-500 mt-2">Google AdSense code goes here</p>
+          <p className="text-gray-400"><ins
+  className="adsbygoogle"
+  style={{ display: 'block' }}
+  data-ad-client="ca-pub-4833804033566999"
+  data-ad-slot="1234567890"
+  data-ad-format="auto"
+  data-full-width-responsive="true"
+/></p>
+          {/* <p className="text-sm text-gray-500 mt-2">Google AdSense code goes here</p> */}
         </div>
 
         {/* Related Articles */}
