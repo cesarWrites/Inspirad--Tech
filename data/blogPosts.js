@@ -717,9 +717,9 @@ For aspiring and experienced data scientists alike, investing time in developing
       author: "Sarah Mukuti",
       date: "May 30, 2026",
       readTime: "2 min read",
-      category: "AI",
+      category: "Data Science",
       image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800&q=80",
-      tags: ["Data Science", ]
+      tags: ["Data", ]
     }, 
      {
       id: 8,
