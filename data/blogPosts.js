@@ -943,11 +943,11 @@ Human decisions are difficult to predict exactly, making probabilistic approache
 <p>
 Epidemiologists use non-deterministic models to study disease spread.
 Factors such as:
-Individual behavior
-Population density
-Travel patterns
-Vaccination rates
-introduce uncertainty.
+<ul><li>Individual behavior</li>
+<li>Population density</li>
+<li>Travel patterns</li>
+<li>Vaccination rates</li>
+<li>Introduce uncertainty.</li></ul>
 Models therefore estimate infection probabilities rather than exact outcomes.
 </p>
 
