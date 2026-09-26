@@ -277,9 +277,9 @@ Perhaps most importantly, mobile money works on feature phones through USSD tech
       author: "Sarah Mukuti",
       date: "May 15, 2026",
       readTime: "2 min read",
-      category: "AI",
+      category: "Digital Transformation",
       image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800&q=80",
-      tags: ["Data", "AI", "Digital Transformation"]
+      tags: ["Data", "Transformation"]
     },
        {
       id: 6,
@@ -719,7 +719,7 @@ For aspiring and experienced data scientists alike, investing time in developing
       readTime: "2 min read",
       category: "AI",
       image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800&q=80",
-      tags: ["Data", "AI", "Digital Transformation"]
+      tags: ["Data Science", ]
     }, 
      {
       id: 8,
@@ -1511,7 +1511,7 @@ In an increasingly interconnected world, organizations that understand both gove
       author: "Sarah Mukuti",
       date: "June 15, 2026",
       readTime: "6 min read",
-      category: "AI",
+      category: "Data Governance",
       image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800&q=80",
       tags: ["Data", "AI", "Digital Transformation"]
     },
